@@ -1,0 +1,213 @@
+{
+  "fakeRecipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish with a creamy egg sauce.",
+      "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/f33d5e96-f960-486f-94ac-cbabe3074ead/Derivates/0454bd7c-c1e3-4010-9a74-39aa130417ba.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Chicken Caesar Salad",
+      "description": "Crisp romaine lettuce tossed with traditional Caesar dressing, grilled chicken, and croutons.",
+      "image": "https://recipes.net/wp-content/uploads/2023/05/mimis-cafes-chicken-caesar-salad-recipe_9419222422c1859ac90db48175cf0b4e-300x300.jpeg"
+    },
+    {
+      "id": "3",
+      "title": "Beef Bourguignon",
+      "description": "A French stew made with beef braised in red wine and beef broth, flavored with carrots, onions, garlic, and a bouquet garni, and garnished with mushrooms and pearl onions.",
+      "image": "https://cookingorgeous.com/wp-content/uploads/2021/01/beef-bourguignon-1-300x300.jpg"
+    },
+    {
+      "id": "4",
+      "title": "mehmet3",
+      "description": "123123123123123",
+      "image": "",
+      "isDeleted": true
+    },
+    {
+      "id": "5",
+      "title": "Quiche Lorraine",
+      "description": "A savory pie from the Lorraine region of France with a pastry crust filled with eggs, cream, and smoked bacon.",
+      "image": "https://bakerbynature.com/wp-content/uploads/2016/11/untitled-20-of-140-1-300x300.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Lamb Rogan Josh",
+      "description": "Aromatic Kashmiri dish known for its vibrant red color with tender lamb cooked in a spiced gravy.",
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2021/01/4-1-300x300.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Pad Thai",
+      "description": "A famous Thai noodle dish with stir-fried rice noodles, eggs, tofu, shrimp, and flavored with tamarind pulp, fish sauce, garlic, red chili pepper, and palm sugar, garnished with roasted peanuts.",
+      "image": "https://foodwithfeeling.com/wp-content/uploads/2021/02/Vegan-Pad-Thai-7-300x300.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Fish Tacos",
+      "description": "Lightly battered fish served on a soft tortilla with shredded cabbage, a zesty white sauce, and a squeeze of fresh lime.",
+      "image": "https://therealkitchen.com/wp-content/uploads/2023/02/bangbangfishtaco-300x300.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Mushroom Risotto",
+      "description": "A creamy Italian rice dish cooked with a variety of mushrooms and parmesan cheese.",
+      "image": "https://lovingitvegan.com/wp-content/uploads/2020/08/Vegan-Mushroom-Risotto-Square-300x300.jpg"
+    },
+    {
+      "id": "10",
+      "title": "1234124",
+      "description": "a",
+      "image": "",
+      "isDeleted": true
+    },
+    {
+      "id": "11",
+      "title": "Makarna",
+      "description": "sdassdasdasdassdasda",
+      "image": "",
+      "isDeleted": true
+    },
+    {
+      "id": "12",
+      "title": "44444",
+      "description": "11111 dassd as dasd asd asdasd",
+      "image": ""
+    },
+    {
+      "id": "13",
+      "title": "Merve3",
+      "description": "1233123",
+      "image": "https://sinfullyspicy.com/wp-content/uploads/2021/01/4-1-300x300.jpg",
+      "isDeleted": true
+    },
+    {
+      "id": "14",
+      "title": "Ahmet2",
+      "description": "Ahmet",
+      "image": ""
+    },
+    {
+      "id": "15",
+      "title": "yemek2",
+      "description": "yemek2",
+      "image": ""
+    },
+    {
+      "id": "16",
+      "title": "da2",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "17",
+      "title": "ad",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "18",
+      "title": "tarif1",
+      "description": "tarif1",
+      "image": ""
+    },
+    {
+      "id": "19",
+      "title": "tarif2",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "20",
+      "title": "tarif4",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "21",
+      "title": "tarif999",
+      "description": "sad",
+      "image": ""
+    },
+    {
+      "id": "22",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "23",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "24",
+      "title": "sad",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "25",
+      "title": "123",
+      "description": "312",
+      "image": ""
+    },
+    {
+      "id": "26",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "27",
+      "title": "asd",
+      "description": "da",
+      "image": ""
+    },
+    {
+      "id": "28",
+      "title": "ad",
+      "description": "asd",
+      "image": "",
+      "isDeleted": true
+    },
+    {
+      "id": "29",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "30",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "31",
+      "title": "sadaa",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "32",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    },
+    {
+      "id": "33",
+      "title": "sad",
+      "description": "sad",
+      "image": ""
+    },
+    {
+      "id": "34",
+      "title": "asd",
+      "description": "asd",
+      "image": ""
+    }
+  ]
+}

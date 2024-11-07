@@ -1,0 +1,44 @@
+
+.main{
+    text-align: center;
+    padding: 50px;
+    img{
+        border-radius: 36% 64% 36% 64% / 47% 73% 27% 53% ;
+        max-width: 50%;
+        height: auto;
+        transition:  .5s;
+        &:hover{
+            transform: scale(1.1);
+            box-shadow: 130px -6px 255px 77px rgba(0,78,80,0.5),
+-130px -6px 255px 128px rgba(0,78,80,0.5);
+        }
+    }
+    p{
+        font-size: 18px;
+        font-weight: bold;
+    }
+}
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+.tooltip {
+   
+    font-family: monospace;
+    display: none;
+    position: absolute;
+    bottom: 50%; 
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    white-space: nowrap;
+    z-index: 200; 
+}
+.image-container:hover .tooltip {
+    display: block; 
+    color: rgb(230, 255, 148);
+    font-size: 22px;
+  }

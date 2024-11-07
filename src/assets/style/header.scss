@@ -1,0 +1,137 @@
+nav{
+  background: linear-gradient(to right top, #0d4445, #1b5d56, #307664, #4c906e, #6da976, #72ab6f, #78ad67, #7fae5f, #659948, #4a8532, #2e711b, #065d00);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 25px;
+  
+
+//---------------------
+  .user-info {
+    display: flex;
+    align-items: center;
+
+    .user-avatar {
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      margin-right: 0.5rem;
+    }
+
+    .user-details {
+      display: flex;
+      flex-direction: column;
+      color: white;
+
+      .user-email {
+        font-weight: bold;
+      }
+
+      .user-role {
+        font-size: 0.8rem;
+        color: #ccc; // Role rengini biraz daha açık yapabilirsiniz
+      }
+    }
+  }
+//--------------------------------
+  .brand{
+      font-size: 20px;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+      cursor: default;
+      img{
+          width: 90px;
+      }
+  }
+  .liste{
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 45px;
+      li{
+          
+          .active{
+              color: #adee4a;
+              font-size:20px ;
+              font-weight: bold;
+          }
+          color: #E6FF94;
+          font-size: 17px;
+          transition: .3s;
+          cursor: pointer;
+          &:hover{
+              background-color:#157274 ;
+              border-radius: 5px;
+              transform: scale(1.1);
+          }
+          a{
+              text-decoration: none;
+              color: white;
+          }
+          
+
+          
+      }
+  }
+  h3{
+      color: #E6FF94;
+  }
+  
+}
+html, body {
+height: 100%;
+margin: 0;
+padding: 0;
+
+}
+
+
+
+.content {
+  flex: 1; 
+}
+
+footer {
+  background: linear-gradient(to right top, #0d4445, #1b5d56, #307664, #4c906e, #6da976, #72ab6f, #78ad67, #7fae5f, #659948, #4a8532, #2e711b, #065d00);
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
+  letter-spacing: 1px;
+  position: fixed;
+  
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  
+  
+
+  .contact-info, .social-media {
+    margin-bottom: 1rem;
+
+    h2 {
+      margin-bottom: 0.5rem;
+      color: white;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 0.5rem;
+
+        a {
+          color: white;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+  }
+}
